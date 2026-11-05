@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-revenue-recognition-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-revenue-recognition",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-revenue-recognition-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/revenue-recognition.md",
+  "presentationPlan": "projects/accounting/react/revenue-recognition.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
